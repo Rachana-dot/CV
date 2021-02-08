@@ -1,0 +1,140 @@
+.Top_Container{
+  background-color: #EaF6F6;
+  position: relative;
+  padding-top: 100px;
+
+}
+.bottom-container{
+margin-top: 50px;
+margin-bottom:0px;
+
+
+background-color: #66BFBF;
+
+}
+.footer-link{
+color:#11999E;
+text-decoration: none;
+display: inline-block;
+margin-right: 20px;
+margin-top: 30px;
+
+}
+
+.Salutation{
+  color: #EaF6F6;
+  margin-bottom:0;
+  padding-top: 30px;
+  text-align: center;
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family:  'Merriweather', serif;
+
+
+}
+.Main{
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+h1{
+margin:50px auto 0 auto;
+font-size: 5.625rem;
+font-family: 'Sacramento', cursive;
+color:#66BFBF;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF
+
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+}
+
+.pro
+{
+  text-decoration: underline;
+}
+
+
+.Top{
+position: absolute;
+right:300px;
+top:60px;
+}
+.Bottom{
+  position: absolute;
+  top:400px;
+  left:300px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+.code-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.Cooking{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+/*********************************clear is used to just wrap the text not the heading*************************************************/
+/*.Clear_thing{
+  clear: right;
+}*/
+.paragraph{
+  color:#40514E;
+margin-left: auto;
+margin-right: auto;
+}
+hr{
+    background-color: none;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #40514E;
+    width:5%;
+    border-width: thick;
+}
+.BUTTON_SWD {
+   -webkit-border-radius: 29px;
+   -moz-border-radius: 29px;
+   border-radius: 29px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Times New Roman;
+   width: 146px;
+   font-size: 20px;
+   font-weight: 300;
+   padding: 21px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: -2px -1px 3px 0 #000000;
+   -moz-box-shadow: -2px -1px 3px 0 #000000;
+   box-shadow: -2px -1px 3px 0 #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_SWD:hover {
+   background: #66BFBF;
+   border: solid #337FED 16px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
